@@ -2,7 +2,7 @@
 ## SqlManagedInstanceReprovisionReplicaTask
 `sqlmanagedinstancereprovisionreplicatasks.tasks.sql.arcdata.microsoft.com`
 - **Current Version:** `v1beta1`
-- **Version Diff:** [v1beta1 - vs - v1beta1](https://htmlpreview.github.io/?https://github.com/arcdatabot/azure_arc/blob/main/arc_data_services/crds/sql-managed-instance-reprovision-replica-task-from-v1beta1-to-v1beta1-report.html)
+- **Version Diff:** [v1beta1 - vs - v1beta1](https://htmlpreview.github.io/?https://github.com/swells/azure_arc/blob/arcdatabot/1.16.0/arc_data_services/crds/sql-managed-instance-reprovision-replica-task-from-v1beta1-to-v1beta1-report.html)
 ----
 ## SqlManagedInstanceRestoreTask
 `sqlmanagedinstancerestoretasks.tasks.sql.arcdata.microsoft.com`
